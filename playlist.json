@@ -2,19 +2,31 @@
   {
     "title": "城南花已开",
     "artist": "三亩地",
-    "cover": "https://example.com/path/to/cover1.jpg",
-    "url": "https://xez014.github.io/my-music-assets/%E5%9F%8E%E5%8D%97%E8%8A%B1%E5%B7%B2%E5%BC%80%20-%20%E4%B8%89%E4%BA%A9%E5%9C%B0.mp3"
+    "cover": "https://uapis.cn/api/imgapi/acg/pc.php",
+    "url": "https://xez014.github.io/mymu/%E5%9F%8E%E5%8D%97%E8%8A%B1%E5%B7%B2%E5%BC%80%20-%20%E4%B8%89%E4%BA%A9%E5%9C%B0.mp3"
   },
   {
     "title": "安静的午后",
     "artist": "Pianoboy高志豪",
-    "cover": "https://example.com/path/to/cover2.png",
-    "url": "https://xez014.github.io/my-music-assets/%E5%AE%89%E9%9D%99%E7%9A%84%E5%8D%88%E5%90%8E%20-%20Pianoboy%E9%AB%98%E8%87%B3%E8%B1%AA.mp3"
+    "cover": "https://uapis.cn/api/imgapi/acg/pc.php",
+    "url": "https://xez014.github.io/mymu/%E5%AE%89%E9%9D%99%E7%9A%84%E5%8D%88%E5%90%8E%20-%20Pianoboy%E9%AB%98%E8%87%B3%E8%B1%AA.mp3"
   },
   {
-    "title": "歌曲三的标题",
-    "artist": "艺术家三",
-    "cover": "https://example.com/path/to/cover3.webp",
-    "url": "https://example.com/path/to/song3.mp3"
+    "title": "偏爱",
+    "artist": "张芸京",
+    "cover": "https://uapis.cn/api/imgapi/acg/pc.php",
+    "url": "https://xez014.github.io/mymu/%E5%81%8F%E7%88%B1%20-%20%E5%BC%A0%E8%8A%B8%E4%BA%AC.mp3"
+  }
+  {
+    "title": "唯一",
+    "artist": "邓紫棋",
+    "cover": "https://uapis.cn/api/imgapi/acg/pc.php",
+    "url": "https://xez014.github.io/mymu/%E5%94%AF%E4%B8%80%20-%20G.E.M.%20%E9%82%93%E7%B4%AB%E6%A3%8B.mp3"
+  }
+  {
+    "title": "瞬间的永恒",
+    "artist": "赵海洋",
+    "cover": "https://uapis.cn/api/imgapi/acg/pc.php",
+    "url": "https://xez014.github.io/mymu/%E7%9E%AC%E9%97%B4%E7%9A%84%E6%B0%B8%E6%81%92%20(%E9%92%A2%E7%90%B4%E6%9B%B2)%20-%20%E8%B5%B5%E6%B5%B7%E6%B4%8B.mp3"
   }
 ]
