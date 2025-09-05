@@ -1,0 +1,20 @@
+[
+  {
+    "title": "歌曲一的标题",
+    "artist": "艺术家一",
+    "cover": "https://example.com/path/to/cover1.jpg",
+    "url": "https://example.com/path/to/song1.mp3"
+  },
+  {
+    "title": "歌曲二的标题",
+    "artist": "艺术家二",
+    "cover": "https://example.com/path/to/cover2.png",
+    "url": "https://example.com/path/to/song2.mp3"
+  },
+  {
+    "title": "歌曲三的标题",
+    "artist": "艺术家三",
+    "cover": "https://example.com/path/to/cover3.webp",
+    "url": "https://example.com/path/to/song3.mp3"
+  }
+]
