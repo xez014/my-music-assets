@@ -1,15 +1,15 @@
 [
   {
-    "title": "歌曲一的标题",
-    "artist": "艺术家一",
+    "title": "城南花已开",
+    "artist": "三亩地",
     "cover": "https://example.com/path/to/cover1.jpg",
     "url": "https://example.com/path/to/song1.mp3"
   },
   {
-    "title": "歌曲二的标题",
-    "artist": "艺术家二",
+    "title": "安静的午后",
+    "artist": "Pianoboy高志豪",
     "cover": "https://example.com/path/to/cover2.png",
-    "url": "https://example.com/path/to/song2.mp3"
+    "url": "https://xez014.github.io/my-music-assets/%E5%AE%89%E9%9D%99%E7%9A%84%E5%8D%88%E5%90%8E%20-%20Pianoboy%E9%AB%98%E8%87%B3%E8%B1%AA.mp3"
   },
   {
     "title": "歌曲三的标题",
